@@ -1,6 +1,8 @@
 const TeacherPage = () => {
   return (
-    <div>src/app/(dashboard)/teacher/page.tsx</div>
+    <div className="">
+      src/app/(dashboard)/teacher/page.tsx
+    </div>
   )
 }
 

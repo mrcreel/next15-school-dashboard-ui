@@ -1,6 +1,8 @@
 const ParentPage = () => {
   return (
-    <div>src/app/(dashboard)/parent/page.tsx</div>
+    <div className="">
+      src/app/(dashboard)/parent/page.tsx
+    </div>
   )
 }
 

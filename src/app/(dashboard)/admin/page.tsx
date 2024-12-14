@@ -2,7 +2,9 @@ import React from 'react'
 
 const AdminPage = () => {
   return (
-    <div>src/app/(dashboard)/admin/page.tsx</div>
+    <div className="">
+      src/app/(dashboard)/admin/page.tsx
+    </div>
   )
 }
 
